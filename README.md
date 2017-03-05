@@ -9,4 +9,6 @@ _dynamicView = [TYRecorderAnimationView recorderWithFrameX:7 frameY:50 height:25
 ```
 * 调用
 
-    ``[_dynamicView refreshUIWithSoundVolume:soundVolume];``  
+    ```oc
+    [_dynamicView refreshUIWithSoundVolume:soundVolume];
+    ```  
