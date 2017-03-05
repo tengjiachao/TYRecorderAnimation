@@ -4,6 +4,6 @@ shapeLayer录音器动画，能根据传入的数值实时改变动画界面
 `用例`
 
 * 创建
-_dynamicView = [TYRecorderAnimationView recorderWithFrameX:7 frameY:5 height:600 themeColor:[UIColor whiteColor] frequency:timeDuration];
+  _dynamicView = [TYRecorderAnimationView recorderWithFrameX:7 frameY:5 height:600 themeColor:[UIColor whiteColor] frequency:timeDuration];
 * 调用
-[_dynamicView refreshUIWithSoundVolume:soundVolume];  
+  [_dynamicView refreshUIWithSoundVolume:soundVolume];  
